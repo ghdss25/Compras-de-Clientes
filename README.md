@@ -1,10 +1,8 @@
-## Sobre o Projeto
+## Sobre o projeto 
 
-** Compras de Clientes ** 
+** Conjunto de dados distribuído pela Data Science Academy, onde mostra as compras realizadas pelos clientes da Empresa XYZ e o quanto cada cliente gasta em média os seus gastos na loja.
 
-* Conjunto de dados distribuido pela Data Science Academy, onde mostra as compras realizadas pelos clientes da Empresa XYZ e o quanto cada cliente gasta em média os seus gastos na loja. 
-
-## Tarefas para a planilhia Compras de Clientes
+## Tarefas para a planilha Compras de Clientes
 
 ** Total de Compras por Sexo ** 
    
