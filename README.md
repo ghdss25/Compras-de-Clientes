@@ -63,7 +63,7 @@
 <img src="Gráfico_2.png">
 
 ** Total de Compras por Nome ** 
-<img src="Grafico_3.png"> 
+<img src="Gráfico_3.png"> 
 
 ** Total Gasto por Nome de Assinantes ** 
 <img src="Gráfico_4.png">
